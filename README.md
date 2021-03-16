@@ -16,6 +16,5 @@ Custom-made to be used in an office (administrative).
 Original requirements:  
 1. Add "Tracklist:" line on top of the list unless it is already present.  
 2. Remove the number (+ dot + space) at the start of each line if present.  
-(The input format never changes.)   
   
   
